@@ -1,6 +1,6 @@
 # Awesome DisasterTech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A selection of projects, organisations and useful tools that help humans in crisis situations. Inspired by [awesome-python](https://github.com/vinta/awesome-python), [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) and all the [rest](https://github.com/sindresorhus/awesome).
+A selection of projects, organisations and useful tools that help humans in crisis situations. Inspired by [awesome-techforgood](https://github.com/TechforgoodCAST/awesome-techforgood), [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) and all the [rest](https://github.com/sindresorhus/awesome).
 
 
 ## Content
@@ -118,7 +118,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
-To the extent possible under law, Niklas Jordan has waived all copyright and
+To the extent possible under law, DisasterTech has waived all copyright and
 related or neighboring rights to this work.
