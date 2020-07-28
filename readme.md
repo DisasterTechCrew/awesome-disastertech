@@ -72,6 +72,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 #### Floods
 
+- [Flood Factor](https://floodfactor.com/) - Past floods, current risks, and future projections based on peer-reviewed research from the world’s leading flood modelers.
 - [Flood Map](https://www.floodmap.net/)
 - [UK Flood information service](https://flood-warning-information.service.gov.uk/warnings)
 
