@@ -98,8 +98,6 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 ## Online directories
 
-About this section.
-
 - [Humanitarian Data Exchange](https://data.humdata.org/) - open platform for sharing humanitarian data.
 - [Social Tech Guide](http://socialtech.org.uk/) - largest database of global tech for good.
 - [Tech for Good Global](http://www.techforgood.global/) - shining a light on the people & technology making our world better.
