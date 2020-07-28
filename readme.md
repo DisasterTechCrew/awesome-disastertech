@@ -30,8 +30,32 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 ### General solutions
 
-- [Humanitech](https://www.redcross.org.au/humanitech) by Australian Red Cross - think+do tank which seeks to shape the future for all humanity by harnessing the power of technology for good 
-- [List item](http://example.com)
+- [Ushahidi](https://www.ushahidi.com/) - Crowdsource situation reports with GIS.
+- [Sahana Disaster Management Software](https://sahanafoundation.org/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Raven Emergency Management Platform](https://www.ravenwics.org/) - enables situational awareness and collaboration starting at the incident level and instantly transmitting to all other authorized decision-makers on the Raven network.
+- [Project Owl](https://www.project-owl.com/) - Mesh networks to connect the people, places, and things you care about most.
+- [PDC DisasterAWARE](https://www.pdc.org/apps/disasteraware/)
+- [Palantir](https://www.palantir.com/) - Use versioning technology so you can manage data like software engineers manage code. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [MIT’s Next-Generation Incident Command System ](https://public.nics.ll.mit.edu/nicshelp/articles/frontpage.php)
+- [InaSAFE](http://inasafe.org/) - produces realistic natural hazard impact scenarios for better planning, preparedness and response activities [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) - applies the principles of open source and open data sharing to humanitarian response and economic development. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Harvey Needs API](https://api.harveyneeds.org/) - Shelter availability [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Google Person Finder](https://google.org/personfinder) - Searchable missing person database written in Python and hosted on App Engine. 
+- [GoodSAM](https://www.goodsamapp.org) - powering the on boarding and deployment of Volunteers for the NHS in partnership with the Royal Voluntary Service
+- [Global Incident Map ](http://www.globalincidentmap.com/)
+- [Global Disaster Alert and Coordination System](https://www.gdacs.org/default.aspx) - cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.
+- [ESRI Public Safety Incident Maps](https://solutions.arcgis.com/local-government/help/public-safety-incident-mapping/)
+- [disaster.radio](https://disaster.radio/) - disaster-resilient communications network powered by the sun
+- [Disaster response on Facebook ](https://www.facebook.com/disaster)
+- [DEEP](https://www.thedeep.io/) - humanitarian secondary data analysis platform
+- [Crisisworks](https://crisisworks.com/) - system for managing emergencies, risk and recovery across the full lifecycle on any device.
+- [CrisisTracker](https://gitlab.com/erichilarysmithsr1/CrisisTracker) - software platform that extracts situational awareness reports from torrents of public tweets during humanitarian disasters
+- [Crisis CleanUp](https://www.crisiscleanup.org/) - collaborative platform for managing assistance and humanitarian aid in disaster cases, enhancing project coordination, efficiency and improving volunteer experience. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Cómo Ayudar MX](http://comoayudar.mx/) - information repository to help gather and display information about associations, entities, organizations, collection centers or any type of help in case of natural disasters. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [Commodity Tracking System](https://github.com/theirc/CTS) - Remote verification and monitoring system in order to track and report on the movement of goods to ensure that the intended beneficiaries receive them. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- [AIDR Knowledge Hub](https://knowledge.aidr.org.au/disasters/)
+- [Disaster Response Pipeline](https://gitlab.com/taylorplumer/disaster-response-pipeline) - machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
+- [Balloon & Kite Mapping ](https://publiclab.org/wiki/balloon-mapping) - low-cost way to take aerial photos using a camera, attached to a balloon, on a spool of string.
 
 ### Hazard-specific solutions
 
@@ -40,7 +64,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 - [New Zealand GeoNet](https://www.geonet.org.nz/earthquake)
 - [OpenQuake](https://www.globalquakemodel.org/openquake)
-- [Voluntarios SMS](https://sismomx-sms.herokuapp.com/) - Provide information and coordinate volunteers through SMS alerts for places without enough internet access.
+- [Voluntarios SMS](https://sismomx-sms.herokuapp.com/) - Provide information and coordinate volunteers through SMS alerts for places without enough internet access. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 #### Hurricanes
 
@@ -59,8 +83,8 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 ## Organisations and NGOs
 
-About this section.
-
+- [DisasterTech](https://www.disaster-tech.org/) - global community of people who develop tools that help humans in crisis situations.
+- [Humanitech](https://www.redcross.org.au/humanitech) by Australian Red Cross - think+do tank which seeks to shape the future for all humanity by harnessing the power of technology for good 
 - [CADUS](https://www.cadus.org/de/) - independent humanitarian aid organisation implementing strategic and technical solutions for emergency response
 - [Data Friendly Space](https://datafriendlyspace.org/) - improve information management and analysis capacity, tools and processes in the humanitarian and development community
 - [Humanity Road](https://www.humanityroad.org) - help the public survive, sustain and reunite after catastrophic disaster by closing the black hole of communications
@@ -69,6 +93,7 @@ About this section.
 - [UN Global Pulse](https://www.unglobalpulse.org/) - the UN Secretary-General’s initiative on big data and artificial intelligence for development, humanitarian action, and peace
 - [UN Innovation Network](https://www.uninnovation.network/) - informal, collaborative community of UN innovators interested in sharing their expertise and experience with others to promote and advance innovation within the UN System
 - [German VOST](https://www.facebook.com/VOSTde/) - Virtual Operations Support Team of the German Federal Agency for Technical Relief
+- [Disaster Response Volunteer Corps](https://docs.google.com/forms/d/e/1FAIpQLScZVhKO1ud8zTjHHM7VxrNabLS3xYYggf4u9NbnEpFPfbO5ZQ/viewform) - One-stop site for techies to register and list the skills they can provide, whether that’s a fluency in Spanish or Ruby.
 
 ## Online directories
 
@@ -84,30 +109,25 @@ About this section.
 
 ### Meetups
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 ### Events
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 ## People to follow
 
 ### Techies
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 ### Crisis experts
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 ### Scientists
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 ## Accelerators, incubators and fellowships
 
@@ -115,8 +135,7 @@ About this section.
 
 ## Funders and grants
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+tbd
 
 
 ## Contribute
