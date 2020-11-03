@@ -56,6 +56,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 - [AIDR Knowledge Hub](https://knowledge.aidr.org.au/disasters/)
 - [Disaster Response Pipeline](https://gitlab.com/taylorplumer/disaster-response-pipeline) - machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
 - [Balloon & Kite Mapping ](https://publiclab.org/wiki/balloon-mapping) - low-cost way to take aerial photos using a camera, attached to a balloon, on a spool of string.
+- [HazMapper](https://hazmapper.org/) - open-access natural hazard mapping
 
 ### Hazard-specific solutions
 
