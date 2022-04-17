@@ -25,11 +25,11 @@ A selection of projects, organisations and useful tools that help humans in cris
 - [Funders](#funders-and-grants)
 - [Contributing](#contribute)
 
-
 ## Awesome projects
 
 ### General solutions
 
+- [AreaHub](https://areahub.com/) - Instant US climate & environmental hazard guides to help you stay safe. In just a few seconds, access data about 13 potential dangers in your area, like severe floods, toxic waste sites, air quality and more.
 - [Ushahidi](https://www.ushahidi.com/) - Crowdsource situation reports with GIS.
 - [Sahana Disaster Management Software](https://sahanafoundation.org/) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - [Raven Emergency Management Platform](https://www.ravenwics.org/) - enables situational awareness and collaboration starting at the incident level and instantly transmitting to all other authorized decision-makers on the Raven network.
@@ -66,6 +66,10 @@ A selection of projects, organisations and useful tools that help humans in cris
 - [New Zealand GeoNet](https://www.geonet.org.nz/earthquake)
 - [OpenQuake](https://www.globalquakemodel.org/openquake)
 - [Voluntarios SMS](https://sismomx-sms.herokuapp.com/) - Provide information and coordinate volunteers through SMS alerts for places without enough internet access. [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+#### Wildfires
+
+- [Wildfires by AreaHub](https://wildfires.areahub.com/) - Monitor active fires across the United States.
 
 #### Hurricanes
 
