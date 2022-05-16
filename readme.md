@@ -83,7 +83,6 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 #### Health
 
-- [Mattermore](https://covid.mattermore.io/) - collective to-do list for saving lives, businesses, and communities affected by COVID19
 - [Sapher](https://sapher.co/) - Plan your grocery trip during COVID-19 to avoid crowds and support your community
 - [TraceTogether](https://www.tracetogether.gov.sg) - If you had close contact with a COVID-19 case, whether or not you know the person, TraceTogether helps contact tracers call you more quickly.
 
