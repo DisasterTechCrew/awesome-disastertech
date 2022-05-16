@@ -138,7 +138,7 @@ tbd
 
 ## Funders and grants
 
-tbd
+- [Elrha](https://www.elrha.org/) - Humanitarian research and innovation grants.
 
 
 ## Contribute
