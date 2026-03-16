@@ -9,6 +9,7 @@ A selection of projects, organisations and useful tools that help humans in cris
   - [General solutions](#general-solutions)
   - [Disaster-specific solutions](#hazard-specific-solutions)
     - [Earthquakes](#earthquakes)
+    - [Wildfires](#wildfires)
     - [Hurricanes](#hurricanes)
     - [Floods](#floods)
     - [Health](#health)
@@ -69,6 +70,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 #### Wildfires
 
+- [Infernis](https://infernis.ca) - ML-powered wildfire risk prediction engine for British Columbia, Canada. XGBoost + CNN trained on 10 fire seasons from 21 open data sources. Free REST API with daily predictions at 5km resolution. [API docs](https://infernis.ca/v1/docs). [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - [Wildfires by AreaHub](https://wildfires.areahub.com/) - Monitor active fires across the United States.
 
 #### Hurricanes
