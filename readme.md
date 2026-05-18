@@ -70,6 +70,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 #### Wildfires
 
 - [Wildfires by AreaHub](https://wildfires.areahub.com/) - Monitor active fires across the United States.
+- [Kahu Ola](https://kahuola.org) - Civic hazard intelligence platform for Hawaiʻi aggregating real-time wildfire, smoke, flood, air quality and volcanic data from NASA FIRMS, NOAA, NWS, EPA and PacIOOS into calm, mobile-friendly situational awareness. [![Open Source Love](https://camo.githubusercontent.com/487f47e7ac0dde012309b0b7fbeceaed24f0644171c1defc1f1ff49a4b463f4c/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e706e673f763d313033)](https://github.com/ellerbrock/open-source-badges/)
 
 #### Hurricanes
 
