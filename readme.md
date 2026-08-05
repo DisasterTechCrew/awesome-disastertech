@@ -70,6 +70,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 #### Wildfires
 
 - [Wildfires by AreaHub](https://wildfires.areahub.com/) - Monitor active fires across the United States.
+- [FireWatch Europe](https://fire.erwinai.nl/) - Free, real-time map of satellite-detected wildfires across Europe, based on NASA FIRMS data, with fire danger forecasts and country-specific guides.
 
 #### Hurricanes
 
