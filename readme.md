@@ -69,6 +69,7 @@ A selection of projects, organisations and useful tools that help humans in cris
 
 #### Wildfires
 
+- [kanari](https://kanari.io) - Free worldwide early wildfire detection map: satellite ignition alerts within minutes, live firefighting aircraft tracking and open data (CC BY 4.0).
 - [Wildfires by AreaHub](https://wildfires.areahub.com/) - Monitor active fires across the United States.
 
 #### Hurricanes
